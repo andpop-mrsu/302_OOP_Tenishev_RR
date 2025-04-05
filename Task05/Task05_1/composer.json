@@ -1,6 +1,6 @@
 
 {
-    "name": "openeeer/task05_2",
+    "name": "tenis/task05_2",
     "autoload": {
         "psr-4": {
             "App\\": "src/",
